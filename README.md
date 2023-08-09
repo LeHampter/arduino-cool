@@ -4,7 +4,7 @@ I don't have much prior experience, especially when it comes to programming, so 
 # Building - Software
 To build and run the files as is, you will need to use the Arduino IDE.<br>
 I am using Arduino IDE 2.1.2. The download and documentation can be found on their website [here.](https://docs.arduino.cc/software/ide-v2)<br>
-If you want to use it with a different IDE, you'll probably have to figure out how to get it to compile yourself.<br>
+If you want to use it with a different IDE, you'll have to figure out how to get it to compile .<br>
 I haven't tried it myself (because I don't know how to do so). If you know what you're doing it's fine, but for the most case, it's probably just best to run it through the Arduino IDE (just in case).
 # Hardware details
 This code has *only* been tested with the circuit components that I currently have, meaning that it has **not** been tested with other boards or modules.<br>
