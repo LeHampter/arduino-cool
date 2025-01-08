@@ -4,7 +4,8 @@ I don't have much prior experience, especially when it comes to programming, so 
 # Building - Software
 To build and run the files as is, you will need to use the Arduino IDE.<br>
 I am using Arduino IDE 2.1.2. The download and documentation can be found on their website [here.](https://docs.arduino.cc/software/ide-v2)<br>
-I am also using the FastLED library, downloaded from within the IDE's library manager.
+~~I am also using the FastLED library, downloaded from within the IDE's library manager.~~
+(No longer using FastLED, I'm gonna use an RGB OLED module i got recently so that will have its own library too)
 # Hardware details
 This code has *only* been tested with the circuit components that I currently have, meaning that it has **not** been tested with other boards or modules.<br>
 Board: [Arduino Nano](https://docs.arduino.cc/hardware/nano)<br>
